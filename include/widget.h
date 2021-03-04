@@ -2,14 +2,15 @@
 #define WIDGET
 
 #include "widget.h"
-#include "gadget.h"
 
 class Widget
 {
     private:  
-        Gadget g;
+       int* data;
     public:  
-        void draw();    
+        Widget(const int size); 
+        ~Widget();
+        void do_something();
 };
 
 #endif 
