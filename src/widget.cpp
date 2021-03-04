@@ -1,8 +1,19 @@
 #include "widget.h"
-#include "gadget.h"
 #include <iostream>
 
-void Widget::draw()
+Widget::Widget(const int size)
 {
-    std::cout << "Draw" << std::endl;
+    Widget::data = new int[size];
+    std::cout << "Construtor" << std::endl;
+}
+
+Widget::~Widget()
+{
+    delete[] Widget::data;
+    std::cout << "Destrutor" << std::endl;
+}
+
+void Widget::do_something()
+{
+    std::cout << "do something" << std::endl;
 }

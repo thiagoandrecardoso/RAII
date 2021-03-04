@@ -8,7 +8,6 @@ CMakeFiles/raii.dir/src/main.cpp.o: ../include/gadget.h
 CMakeFiles/raii.dir/src/main.cpp.o: ../include/widget.h
 CMakeFiles/raii.dir/src/main.cpp.o: ../src/main.cpp
 
-CMakeFiles/raii.dir/src/widget.cpp.o: ../include/gadget.h
 CMakeFiles/raii.dir/src/widget.cpp.o: ../include/widget.h
 CMakeFiles/raii.dir/src/widget.cpp.o: ../src/widget.cpp
 

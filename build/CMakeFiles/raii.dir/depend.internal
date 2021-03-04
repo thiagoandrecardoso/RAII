@@ -9,6 +9,5 @@ CMakeFiles/raii.dir/src/main.cpp.o
  ../include/widget.h
  /Users/thiagocardoso/Documents/07 cpp/RAII/src/main.cpp
 CMakeFiles/raii.dir/src/widget.cpp.o
- ../include/gadget.h
  ../include/widget.h
  /Users/thiagocardoso/Documents/07 cpp/RAII/src/widget.cpp

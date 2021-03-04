@@ -1,9 +1,9 @@
-#include "widget.h" 
+#include "widget.h"  
 #include "gadget.h"
 #include <iostream>
 
 int main(int, char**) {
-   Widget w;
+   Widget w(100000);
 
-   w.draw();
+   w.do_something();
 }
