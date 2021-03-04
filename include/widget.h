@@ -2,15 +2,15 @@
 #define WIDGET
 
 #include "widget.h"
+#include <iostream>
 
 class Widget
 {
     private:  
-       int* data;
+       std::unique_ptr<int> data;
     public:  
         Widget(const int size); 
-        ~Widget();
-        void do_something();
+        void do_something(); 
 };
 
 #endif 
