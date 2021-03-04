@@ -1,0 +1,1 @@
+/usr/bin/clang++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.0.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/raii.dir/src/main.cpp.o CMakeFiles/raii.dir/src/gadget.cpp.o CMakeFiles/raii.dir/src/widget.cpp.o -o raii 

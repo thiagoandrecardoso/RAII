@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/gadget.h
+
+../include/widget.h
+widget.h
+../include/widget.h
+gadget.h
+../include/gadget.h
+
+/Users/thiagocardoso/Documents/07 cpp/RAII/src/gadget.cpp
+gadget.h
+/Users/thiagocardoso/Documents/07 cpp/RAII/src/gadget.h
+iostream
+-
+
+/Users/thiagocardoso/Documents/07 cpp/RAII/src/main.cpp
+widget.h
+/Users/thiagocardoso/Documents/07 cpp/RAII/src/widget.h
+gadget.h
+/Users/thiagocardoso/Documents/07 cpp/RAII/src/gadget.h
+iostream
+-
+
+/Users/thiagocardoso/Documents/07 cpp/RAII/src/widget.cpp
+widget.h
+/Users/thiagocardoso/Documents/07 cpp/RAII/src/widget.h
+gadget.h
+/Users/thiagocardoso/Documents/07 cpp/RAII/src/gadget.h
+iostream
+-
+

@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/Users/thiagocardoso/Documents/07 cpp/RAII/build",
+  "command": "/usr/bin/clang++  -I\"/Users/thiagocardoso/Documents/07 cpp/RAII/./include\" -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.0.sdk -o CMakeFiles/raii.dir/src/main.cpp.o -c \"/Users/thiagocardoso/Documents/07 cpp/RAII/src/main.cpp\"",
+  "file": "/Users/thiagocardoso/Documents/07 cpp/RAII/src/main.cpp"
+},
+{
+  "directory": "/Users/thiagocardoso/Documents/07 cpp/RAII/build",
+  "command": "/usr/bin/clang++  -I\"/Users/thiagocardoso/Documents/07 cpp/RAII/./include\" -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.0.sdk -o CMakeFiles/raii.dir/src/gadget.cpp.o -c \"/Users/thiagocardoso/Documents/07 cpp/RAII/src/gadget.cpp\"",
+  "file": "/Users/thiagocardoso/Documents/07 cpp/RAII/src/gadget.cpp"
+},
+{
+  "directory": "/Users/thiagocardoso/Documents/07 cpp/RAII/build",
+  "command": "/usr/bin/clang++  -I\"/Users/thiagocardoso/Documents/07 cpp/RAII/./include\" -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.0.sdk -o CMakeFiles/raii.dir/src/widget.cpp.o -c \"/Users/thiagocardoso/Documents/07 cpp/RAII/src/widget.cpp\"",
+  "file": "/Users/thiagocardoso/Documents/07 cpp/RAII/src/widget.cpp"
+}
+]

@@ -1,0 +1,5 @@
+/Users/thiagocardoso/Documents/07 cpp/RAII/build/CMakeFiles/package.dir
+/Users/thiagocardoso/Documents/07 cpp/RAII/build/CMakeFiles/rebuild_cache.dir
+/Users/thiagocardoso/Documents/07 cpp/RAII/build/CMakeFiles/edit_cache.dir
+/Users/thiagocardoso/Documents/07 cpp/RAII/build/CMakeFiles/package_source.dir
+/Users/thiagocardoso/Documents/07 cpp/RAII/build/CMakeFiles/raii.dir
